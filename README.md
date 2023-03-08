@@ -12,6 +12,7 @@
         Python
         Docker
      
+Задания Junior(1-2) и Middle(1) следует запускать на Windows.
 
 <h1>
 Условия задач
