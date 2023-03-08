@@ -5,6 +5,7 @@
 Для запуска заданий потребуется: 
 
     Windows:
+        Python
         IDE PyCharm
         Docker desktop
         
